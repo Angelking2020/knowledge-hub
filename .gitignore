@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时文件
+*.tmp
+*.bak
+Thumbs.db
+
+# Obsidian（如果用 Obsidian 写笔记）
+.obsidian/
+.trash/
