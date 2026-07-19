@@ -8,6 +8,7 @@
 | --- | --- |
 | `pursue-release-04-dataset.json` | 40 条完整记录 + 批次汇总（类型/机构分布、下载 URL） |
 | `pursue-release-04-dataset.csv` | 同一数据的表格版，可直接用 Excel / pandas 打开 |
+| `DOW-UAP-D092.ocr.txt` | 单份文件 DOW-UAP-D092（蓝皮书审查委员会）PDF 的 OCR 全文（PDF.js 提取，85 页），供 [D092 中译](../DOW-UAP-D092-translation-zh.md)核对 |
 
 ## 字段释义（每条 record）
 

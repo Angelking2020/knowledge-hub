@@ -7,7 +7,8 @@
 | 文档 | 说明 |
 | --- | --- |
 | [`pursue-release-04-analysis.md`](pursue-release-04-analysis.md) | **第四批（Release 04，2026-07-10，40 份文件）**下载与深度分析：背景、总览、四大主题解读、关键案例、横向模式、核验方法 |
-| [`data/`](data/) | 整理好的结构化数据集（JSON + CSV，40 条记录含官方描述、SHA-256、源 URL）与[数据说明](data/README.md) |
+| [`DOW-UAP-D092-translation-zh.md`](DOW-UAP-D092-translation-zh.md) | **单份文件全文翻译**：《空军审查蓝皮书委员会（1966–67）》——含 1953 年罗伯逊专家组报告；逐页中译＋历史导读 |
+| [`data/`](data/) | 整理好的结构化数据集（JSON + CSV，40 条记录含官方描述、SHA-256、源 URL）+ D092 的 OCR 原文，与[数据说明](data/README.md) |
 
 ## 🧭 名词速查
 
